@@ -59,11 +59,6 @@ This project is built to demonstrate modern AI application development using LLM
 
 - PostgreSQL / SQLite with SQLAlchemy & Alembic
 
-### Development Tools
-
-- Antigravity IDE
-- Git
-- GitHub
 
 ---
 
