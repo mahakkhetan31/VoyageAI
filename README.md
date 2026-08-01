@@ -3,7 +3,7 @@
 > AI-powered travel planner that creates personalized itineraries and exports them as beautifully formatted PDFs.
 
 
-# Overview
+## Overview
 
 VoyageAI is an AI-powered travel planning application that generates customized travel itineraries based on user preferences.
 
@@ -183,7 +183,7 @@ npm run dev
 
 # 🔮 Roadmap
 
-## Phase 1 ✅
+## Phase 1 - Done
 
 - AI itinerary generation
 - PDF export
@@ -193,7 +193,7 @@ npm run dev
 
 ---
 
-## Phase 2 🚧
+## Phase 2 - In Progress
 
 - Food preferences
 - Accommodation recommendations
