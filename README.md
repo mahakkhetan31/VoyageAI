@@ -57,7 +57,7 @@ This project is built to demonstrate modern AI application development using LLM
 
 ### Database
 
-- SQLite (if applicable)
+- PostgreSQL / SQLite with SQLAlchemy & Alembic
 
 ### Development Tools
 
