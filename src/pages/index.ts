@@ -1,0 +1,11 @@
+export { default as HomePage } from "./HomePage";
+export { default as LoginPage } from "./LoginPage";
+export { default as RegisterPage } from "./RegisterPage";
+export { default as DashboardPage } from "./DashboardPage";
+export { default as ChatPage } from "./ChatPage";
+export { default as TripsPage } from "./TripsPage";
+export { default as TripDetailPage } from "./TripDetailPage";
+export { default as BudgetPage } from "./BudgetPage";
+export { default as DocumentsPage } from "./DocumentsPage";
+export { default as ItineraryPage } from "./ItineraryPage";
+export { default as NotFoundPage } from "./NotFoundPage";
